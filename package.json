@@ -1,0 +1,12 @@
+{
+  "name": "cnh-gerando-pix-hunter-pay",
+  "version": "1.0.0",
+  "description": "Sistema de geração de PIX para CNH",
+  "scripts": {
+    "start": "node chat/hunterpay_pix.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
+
